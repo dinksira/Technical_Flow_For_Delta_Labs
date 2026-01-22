@@ -1,7 +1,7 @@
 
   # Technical Flow Diagram Design
 
-  This is a code bundle for Technical Flow Diagram Design. The original project is available at https://www.figma.com/design/BFTi9e8GAlzXXbQle151Ni/Technical-Flow-Diagram-Design.
+  This is a code bundle for Technical Flow Diagram Design. The original project is available at
 
   ## Running the code
 
